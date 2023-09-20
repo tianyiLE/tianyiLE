@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is my profile readMe
+I'm a student of ESTIA, I am studing for the Master MBDS
 
 <!--
 **tianyiLE/tianyiLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
